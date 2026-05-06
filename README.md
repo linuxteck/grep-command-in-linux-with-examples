@@ -29,7 +29,7 @@ Start with these essential commands:
 
 > Searching logs and files using `grep`
 
-![Preview](https://raw.githubusercontent.com/linuxteck/grep-guide/main/grep-preview.png)
+![Preview](https://github.com/linuxteck/grep-command-in-linux-with-examples/blob/main/grep.png)
 
 ---
 
